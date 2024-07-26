@@ -1,0 +1,351 @@
+------------------------------
+|      UNIVERSITE JAVA       |
+|----------------------------|
+|                            |
+|     CENTRE DE GESTION      |
+|                            |
+|----------------------------|
+
+
+
+Login: Admin
+Mot de passe: 1478
+
+------------------------------
+|      MENU PRINCIPAL        |
+|----------------------------|
+| 0. DONNEES EXEMPLES        |
+| 1. Gestion des classes     |
+| 2. Gestion des Etudiants   |
+| 3. Gestion des Matieres    |
+| 4. Gestion des Evaluations |
+| 5. Gestion des Bulletins   |
+| 6. Quitter                 |
+|----------------------------|
+
+Veuillez choisir: 0
+..................
+Remplissage[Classes, MatiEre, Etudiant, Notes] terminE avec succEs
+..................
+
+------------------------------
+|      MENU PRINCIPAL        |
+|----------------------------|
+| 0. DONNEES EXEMPLES        |
+| 1. Gestion des classes     |
+| 2. Gestion des Etudiants   |
+| 3. Gestion des Matieres    |
+| 4. Gestion des Evaluations |
+| 5. Gestion des Bulletins   |
+| 6. Quitter                 |
+|----------------------------|
+
+Veuillez choisir: 1
+
+         1. Liste des classes
+         2. Ajouter classe
+         3. Menu Principal
+Veuillez choisir: 1
+La liste des classes est: [L1_A1, L1_A2, L1_B1, L1_B2]
+
+         1. Liste des classes
+         2. Ajouter classe
+         3. Menu Principal
+Veuillez choisir: 3
+
+------------------------------
+|      MENU PRINCIPAL        |
+|----------------------------|
+| 0. DONNEES EXEMPLES        |
+| 1. Gestion des classes     |
+| 2. Gestion des Etudiants   |
+| 3. Gestion des Matieres    |
+| 4. Gestion des Evaluations |
+| 5. Gestion des Bulletins   |
+| 6. Quitter                 |
+|----------------------------|
+
+Veuillez choisir: 2
+
+         1. Liste des Etudiants
+         2. Ajouter des Etudiants
+         3. Menu Principal
+Veuillez choisir: 1
+-------------  Etudiant 1  ----------------
+Nom: AKO
+Prenoms: AKO
+Genre: M
+DateNaissance: 10-10-2000
+Contacts: 0101
+Matricule: AA
+Niveau: L1
+Classe: L1_A1
+-------------  Etudiant 2  ----------------
+Nom: BABA
+Prenoms: ANO
+Genre: M
+DateNaissance: 11-09-1996
+Contacts: 0202
+Matricule: BB
+Niveau: L1
+Classe: L1_A1
+-------------  Etudiant 3  ----------------
+Nom: MAKEBA
+Prenoms: TATOU
+Genre: F
+DateNaissance: 18-03-2000
+Contacts: 0303
+Matricule: CC
+Niveau: L1
+Classe: L1_A1
+-------------  Etudiant 4  ----------------
+Nom: OLA
+Prenoms: AMZI
+Genre: F
+DateNaissance: 31-12-2001
+Contacts: 0404
+Matricule: DD
+Niveau: L1
+Classe: L1_B1
+-------------  Etudiant 5  ----------------
+Nom: LISA
+Prenoms: NOBO
+Genre: M
+DateNaissance: 27-07-2010
+Contacts: 0505
+Matricule: EE
+Niveau: L1
+Classe: L1_B2
+
+         1. Liste des Etudiants
+         2. Ajouter des Etudiants
+         3. Menu Principal
+Veuillez choisir: 3
+
+------------------------------
+|      MENU PRINCIPAL        |
+|----------------------------|
+| 0. DONNEES EXEMPLES        |
+| 1. Gestion des classes     |
+| 2. Gestion des Etudiants   |
+| 3. Gestion des Matieres    |
+| 4. Gestion des Evaluations |
+| 5. Gestion des Bulletins   |
+| 6. Quitter                 |
+|----------------------------|
+
+Veuillez choisir: 3
+
+         1. Liste des Matieres
+         2. Ajouter des Matieres
+         3. Menu Principal
+Veuillez choisir: 1
+|- ALGO (Coef 1)
+|- LANG_C (Coef 1)
+|- JAVA (Coef 2)
+|- DATA (Coef 3)
+|- RESEAU (Coef 2)
+|- PHP (Coef 1)
+
+         1. Liste des Matieres
+         2. Ajouter des Matieres
+         3. Menu Principal
+Veuillez choisir: 3
+
+------------------------------
+|      MENU PRINCIPAL        |
+|----------------------------|
+| 0. DONNEES EXEMPLES        |
+| 1. Gestion des classes     |
+| 2. Gestion des Etudiants   |
+| 3. Gestion des Matieres    |
+| 4. Gestion des Evaluations |
+| 5. Gestion des Bulletins   |
+| 6. Quitter                 |
+|----------------------------|
+
+Veuillez choisir: 4
+
+         0. Liste des notes
+         1. Ajouter des notes
+         2. Calculer Moyennes
+         3. Faire Classement
+         4. Menu Principal
+Veuillez choisir: 0
+|--------------------------------------------------------- 
+| Nom et Prenoms  :  AKO AKO
+| Niveau          :  L1
+| Classe          :  L1_A1
+| Matrule         :  AA
+|--------------------------------------------------------- 
+
+|                 : JAVA: [8.0, 11.0, 16.0, 15.0]
+|                 : DATA: [15.0, 17.0, 12.0, 12.0]
+|                 : RESEAU: [8.0, 7.0, 14.0, 12.0]
+|                 : PHP: [17.0, 12.0, 12.0, 19.0]
+|                 : LANG_C: [9.0, 17.0, 10.0, 9.0]
+|                 : ALGO: [7.0, 19.0, 11.0, 6.0]
+
+
+|--------------------------------------------------------- 
+| Nom et Prenoms  :  BABA ANO
+| Niveau          :  L1
+| Classe          :  L1_A1
+| Matrule         :  BB
+|--------------------------------------------------------- 
+
+|                 : JAVA: [14.0, 10.0, 6.0, 4.0]
+|                 : DATA: [6.0, 6.0, 13.0, 6.0]
+|                 : RESEAU: [16.0, 5.0, 17.0, 12.0]
+|                 : PHP: [18.0, 16.0, 18.0, 11.0]
+|                 : LANG_C: [14.0, 3.0, 13.0, 5.0]
+|                 : ALGO: [16.0, 3.0, 11.0, 17.0]
+
+
+|--------------------------------------------------------- 
+| Nom et Prenoms  :  MAKEBA TATOU
+| Niveau          :  L1
+| Classe          :  L1_A1
+| Matrule         :  CC
+|--------------------------------------------------------- 
+
+|                 : JAVA: [11.0, 11.0, 16.0, 14.0]
+|                 : DATA: [8.0, 18.0, 12.0, 8.0]
+|                 : RESEAU: [10.0, 10.0, 11.0, 9.0]
+|                 : PHP: [9.0, 5.0, 16.0, 18.0]
+|                 : LANG_C: [9.0, 16.0, 17.0, 18.0]
+|                 : ALGO: [9.0, 3.0, 17.0, 14.0]
+
+
+|--------------------------------------------------------- 
+| Nom et Prenoms  :  OLA AMZI
+| Niveau          :  L1
+| Classe          :  L1_B1
+| Matrule         :  DD
+|--------------------------------------------------------- 
+
+|                 : JAVA: [16.0, 6.0, 15.0, 13.0]
+|                 : DATA: [17.0, 15.0, 10.0, 11.0]
+|                 : RESEAU: [14.0, 19.0, 5.0, 12.0]
+|                 : PHP: [9.0, 19.0, 7.0, 13.0]
+|                 : LANG_C: [8.0, 17.0, 15.0, 12.0]
+|                 : ALGO: [5.0, 4.0, 7.0, 10.0]
+
+
+|--------------------------------------------------------- 
+| Nom et Prenoms  :  LISA NOBO
+| Niveau          :  L1
+| Classe          :  L1_B2
+| Matrule         :  EE
+|--------------------------------------------------------- 
+
+|                 : JAVA: [13.0, 14.0, 6.0, 10.0]
+|                 : DATA: [18.0, 3.0, 13.0, 10.0]
+|                 : RESEAU: [9.0, 7.0, 8.0, 10.0]
+|                 : PHP: [9.0, 10.0, 11.0, 14.0]
+|                 : LANG_C: [15.0, 10.0, 11.0, 7.0]
+|                 : ALGO: [9.0, 12.0, 10.0, 19.0]
+
+
+
+         0. Liste des notes
+         1. Ajouter des notes
+         2. Calculer Moyennes
+         3. Faire Classement
+         4. Menu Principal
+Veuillez choisir: 2
+..................
+Moyennes calculE avec succEs. Vous pouvez Proceder au classements!
+..................
+
+         0. Liste des notes
+         1. Ajouter des notes
+         2. Calculer Moyennes
+         3. Faire Classement
+         4. Menu Principal
+Veuillez choisir: 3
+..................
+Classement effectué avec succes. Vous pouvez imprimer les bullettins!
+..................
+
+         0. Liste des notes
+         1. Ajouter des notes
+         2. Calculer Moyennes
+         3. Faire Classement
+         4. Menu Principal
+Veuillez choisir: 4
+
+------------------------------
+|      MENU PRINCIPAL        |
+|----------------------------|
+| 0. DONNEES EXEMPLES        |
+| 1. Gestion des classes     |
+| 2. Gestion des Etudiants   |
+| 3. Gestion des Matieres    |
+| 4. Gestion des Evaluations |
+| 5. Gestion des Bulletins   |
+| 6. Quitter                 |
+|----------------------------|
+
+Veuillez choisir: 5
+
+         1. Imprimer Bulletin particuler
+         2. Imprimer tous les bulletins
+         3. Menu Principal
+Veuillez choisir: 1
+
+Entrez le matricule de l'Etudiant: AA
+----------------------------
+Bulletins imprimEs avec succEs.
+Route: ./Bulletins
+----------------------------
+
+
+         1. Imprimer Bulletin particuler
+         2. Imprimer tous les bulletins
+         3. Menu Principal
+Veuillez choisir: 2
+----------------------------
+Bulletins imprimEs avec succEs.
+Route: ./Bulletins
+----------------------------
+
+----------------------------
+Bulletins imprimEs avec succEs.
+Route: ./Bulletins
+----------------------------
+
+----------------------------
+Bulletins imprimEs avec succEs.
+Route: ./Bulletins
+----------------------------
+
+----------------------------
+Bulletins imprimEs avec succEs.
+Route: ./Bulletins
+----------------------------
+
+----------------------------
+Bulletins imprimEs avec succEs.
+Route: ./Bulletins
+----------------------------
+
+
+         1. Imprimer Bulletin particuler
+         2. Imprimer tous les bulletins
+         3. Menu Principal
+Veuillez choisir: 3
+
+------------------------------
+|      MENU PRINCIPAL        |
+|----------------------------|
+| 0. DONNEES EXEMPLES        |
+| 1. Gestion des classes     |
+| 2. Gestion des Etudiants   |
+| 3. Gestion des Matieres    |
+| 4. Gestion des Evaluations |
+| 5. Gestion des Bulletins   |
+| 6. Quitter                 |
+|----------------------------|
+
+Veuillez choisir: 

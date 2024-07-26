@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78549b5e-26a0-4844-85e4-29c7d2159b00" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/universite/Etudiants.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/main/java/com/universite/Etudiants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/universite/Evaluations.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/main/java/com/universite/Evaluations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/universite/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/main/java/com/universite/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/universite/Matieres.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/main/java/com/universite/Matieres.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/universite/Outils.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/main/java/com/universite/Outils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/universite/Bulletins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/universite/Bulletin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/universite/Classes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/universite/Classe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/universite/Directions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/universite/Direction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/universite/Etudiants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/universite/Etudiant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/universite/Evaluations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/universite/Evaluation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/universite/Gestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/universite/Gestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/universite/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/universite/Universite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/universite/Matieres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/universite/Matiere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/universite/Outils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/universite/Outil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/universite/Bulletins.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/universite/Classes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/universite/Directions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/universite/Etudiants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/universite/Evaluations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/universite/Gestions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/universite/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/universite/Matieres.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/universite/Outils.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2jah050TpmcOS6EvFCM8mSoHhgb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Universite.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78549b5e-26a0-4844-85e4-29c7d2159b00" name="Changes" comment="" />
+      <created>1721630869324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721630869324</updated>
+    </task>
+    <servers />
+  </component>
+</project>
