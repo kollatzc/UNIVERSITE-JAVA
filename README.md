@@ -23,7 +23,7 @@ l'établissement des classements et la génération des bulletins de notes.
 # UTILISATION
 
 	1. Comment executer l'application?
-		1. Tout simplement en Executant le fichier .\RUN.bat
+		1. Tout simplement en Executant le fichier RUN.cmd
 		ou
 		2.
 		- ouvrir l'invite de commande à la racine du fichier PROJET/target/UNIVERSITE-1.0-SNAPSHOT.jar
